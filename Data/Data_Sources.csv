@@ -1,0 +1,10 @@
+Source ID,Business Line,Data Source Name,Source Type,Customer ID Available,Email Available,Demographics Available,Data Quality,Integration Status,Notes
+1,Streaming,1st Party - Streaming Platform,1st Party,Yes,Yes,Yes (80% complete),High,Fully Integrated,Complete customer profiles with viewing history
+2,Online Store,1st Party - Online Store,1st Party,Yes,Yes,Yes (75% complete),High,Fully Integrated,Complete purchase history and customer preferences
+3,Studio Tours,1st Party - Studio Tours,1st Party,Yes,Yes,Yes (70% complete),High,Fully Integrated,Ticket purchases and tour preferences
+4,Theatrical,3rd Party - AMC Theatres,3rd Party,Limited (cinema loyalty ID only),No,No,Medium,Limited - Aggregated Data Only,Currently receives only title-level sales data; negotiating for transaction-level access
+5,Theatrical,3rd Party - Regal Cinemas,3rd Party,Limited (cinema loyalty ID only),No,No,Medium,Limited - Aggregated Data Only,Currently receives only title-level sales data; negotiating for transaction-level access
+6,Theatrical,3rd Party - Cinemark,3rd Party,Limited (cinema loyalty ID only),No,No,Medium,Limited - Aggregated Data Only,Currently receives only title-level sales data; negotiating for transaction-level access
+7,Consumer Products,3rd Party - Target,3rd Party,No,No,No,Low-Medium,Not Integrated,Currently no direct data access; relies on retailer reports
+8,Consumer Products,3rd Party - Walmart,3rd Party,No,No,No,Low-Medium,Not Integrated,Currently no direct data access; relies on retailer reports
+9,Consumer Products,3rd Party - Amazon,3rd Party,No,No,No,Low-Medium,Not Integrated,Currently no direct data access; relies on retailer reports
